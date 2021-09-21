@@ -22,7 +22,7 @@ Git Command which I used
 **To change directory**
 * cd directoryName
 
-** To initialize a new, empty repository**
+**To initialize a new, empty repository**
 * git init
 
 **To show the files** 
