@@ -80,7 +80,7 @@ Git Command which I used
  *  git push -u origin main
 
 
-**To push the code **
+**To push the code**
  *  git pull
  *  git push -u origin dev
     
