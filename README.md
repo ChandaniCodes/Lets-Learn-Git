@@ -11,9 +11,9 @@ Git Command which I used
 
 **Set your email address**
 * git config --global user.email "useremail"
-**
 
-To change your text file**
+
+**To change your text file**
 * git config --global --edit
 
 **To make directory**
@@ -78,6 +78,7 @@ To change your text file**
   
  *  git branch -M main
  *  git push -u origin main
+
 
 **To push the code **
  *  git pull
