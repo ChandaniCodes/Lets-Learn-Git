@@ -70,7 +70,7 @@ To change your text file**
 **To connect your local repository to the remote server**
  * git remote -v
 
-For creating a local copy of a central repository
+**For creating a local copy of a central repository**
  * git remote add origin https://github.com/ChandaniCodes/Lets-Learn-Git.git
  * git remote -v
   -> origin  https://github.com/ChandaniCodes/Lets-Learn-Git.git (fetch)
