@@ -1,10 +1,9 @@
 # Lets-Learn-Git
-Learning Git
 
 
 Git Command which I used
 
-To check git version
+**To check git version**
 * git --version 
 
 **Set your username**
@@ -13,6 +12,7 @@ To check git version
 **Set your email address**
 * git config --global user.email "useremail"
 **
+
 To change your text file**
 * git config --global --edit
 
